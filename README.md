@@ -1,6 +1,6 @@
 # 🦁 Mini Zoo Management System
 
-A Java-based Zoo Simulation project developed as the final assessment for the **Coursera & Amazon "Introduction to Software Development"** course.
+A Mini Java-based Zoo management system.
 
 This project showcases key object-oriented programming (OOP) principles like **inheritance, interfaces, abstract classes, and polymorphism** — wrapped in an interactive zoo management system with a simple text-based menu.
 
@@ -10,7 +10,11 @@ This project showcases key object-oriented programming (OOP) principles like **i
 
 [![Watch the Demo]
 
-> 📌 https://github.com/user-attachments/assets/ae8599af-38b2-425b-916f-746506db66c6
+> 📌 
+
+https://github.com/user-attachments/assets/3572178e-251d-41dd-a236-ad91923989ca
+
+
 
 ---
 
