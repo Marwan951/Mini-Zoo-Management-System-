@@ -10,7 +10,7 @@ This project showcases key object-oriented programming (OOP) principles like **i
 
 [![Watch the Demo]
 
-> 📌 Replace `VIDEO_ID_HERE` with the YouTube video ID of your demo once uploaded.
+> 📌 
 
 ---
 
@@ -42,20 +42,21 @@ The program uses:
 ---
 
 ## 📦 Project Structure
-
+```bash
 Zoo_App/
 ├── Animals/
-│ ├── Animal.java
-│ ├── Tiger.java
-│ ├── Dolphin.java
-│ └── Penguin.java
+│   ├── Animal.java
+│   ├── Tiger.java
+│   ├── Dolphin.java
+│   └── Penguin.java
 ├── Interfaces/
-│ ├── Eat.java
-│ ├── Walk.java
-│ └── Swim.java
+│   ├── Eat.java
+│   ├── Walk.java
+│   └── Swim.java
 ├── Zoo_Menu_Screen.java
 ├── Main.java
 └── README.md
+
 
 
 ---
