@@ -12,7 +12,8 @@ Watch the Demo!
 
 > 📌 
 
-https://github.com/user-attachments/assets/3572178e-251d-41dd-a236-ad91923989ca
+https://github.com/user-attachments/assets/b558a369-face-432f-9d32-c34e2b5ac616
+
 
 
 
