@@ -8,7 +8,7 @@ This project showcases key object-oriented programming (OOP) principles like **i
 
 ## 📽️ Demo
 
-[![Watch the Demo]
+Watch the Demo!
 
 > 📌 
 
