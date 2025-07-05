@@ -68,7 +68,7 @@ Zoo_App/
 
 ## 📌 Technologies Used
 
-- Java (JDK 21+)
+- Java (JDK 24+)
 - IntelliJ IDEA Community Edition
 - OOP Concepts (Inheritance, Polymorphism, Interfaces)
 - Swing (for GUI version, if applicable)
