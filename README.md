@@ -77,5 +77,4 @@ Zoo_App/
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
-   git clone https://github.com/Marwan951/Mini-Zoo-Management-System-.git
+1. Clone the repository:   git clone https://github.com/Marwan951/Mini-Zoo-Management-System-.git
